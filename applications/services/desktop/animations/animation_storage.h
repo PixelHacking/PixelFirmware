@@ -1,6 +1,5 @@
 #pragma once
 #include <stdint.h>
-#include <m-list.h>
 #include "views/bubble_animation_view.h"
 
 #define BASE_ANIMATION_DIR EXT_PATH("dolphin")
